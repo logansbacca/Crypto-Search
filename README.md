@@ -6,5 +6,5 @@ This React-based application allows easy access to real-time cryptocurrency data
 
 ## CoinGecko API
 
-The API provides live cryptocurrency details including prices, market cap, and historical data. ([Learn more here](https://api.coingecko.com/api)).
+The API provides live cryptocurrency details including prices, market cap, and historical data. ([Learn more here](https://www.coingecko.com/api/documentation)).
 
