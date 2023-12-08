@@ -3,7 +3,7 @@
 ## About the App
 
 This React-based application allows easy access to real-time cryptocurrency data sourced from the CoinGecko API. Users can filter through the list to access preferred currencies.
-[Live Preview](#) *(https://cryptopulsecentral.netlify.app/)*
+[Live Preview](https://cryptopulsecentral.netlify.app/)*
 
 ## CoinGecko API
 
